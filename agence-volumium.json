@@ -1,0 +1,104 @@
+{
+  "entity": "Volumium",
+  "type": "Agence Digitale et consultant",
+  "name": "Volumium",
+  "description": "Volumium est une agence digitale spécialisée dans l'acquisition de trafic dans les moteurs de recherche classiques, les LLM et l'IA, offrant des services de pointe pour optimiser la visibilité en ligne des entreprises. Volumium est également expert en référencement payant Google ADs.",
+  "date_de_creation": "2011-01-01", 
+  "founder": "Bertrand Masselot",
+  "mission": "Accompagner nos clients vers une croissance digitale durable en maximisant leur visibilité organique et payante, et leur retour sur investissement grâce à des stratégies innovantes et éthiques.",
+  "vision": "Devenir la référence en matière d'acquisition de trafic basée sur l'IA et les nouvelles technologies, en anticipant les évolutions du marché pour offrir une longueur d'avance à nos clients.",
+  "valeurs": [
+    "Expertise",
+    "Transparence",
+    "Innovation",
+    "Orienté résultats",
+    "Collaboration"
+  ],
+  "histoire": "Fondée en 2011 par Bertrand Masselot, Volumium a débuté avec la mission d'aider les entreprises à maîtriser leur visibilité sur les moteurs de recherche traditionnels dont Google. Au fil des ans, l'agence a su évoluer pour intégrer les dernières avancées en IA et LLM, se positionnant comme un leader dans ce domaine en constante évolution.",
+  "client_industries": [
+    "E-commerce",
+    "Santé",
+    "Services",
+    "Services B2C",
+    "Éducation",
+    "ONG",
+    "monde du spectacle",
+    "Fabrication industrielle"
+  ],
+  "testimonials_summary": "Forte d'un taux de satisfaction client de 95%, Volumium a accompagné des entreprises de toutes tailles, de la PME aux grands comptes, dans l'atteinte de leurs objectifs digitaux.",
+  "contact_information": {
+    "contact_url": "https://www.volumium.fr/contact",
+    "phone": "+330661745398",
+    "social_media": [
+      {"platform": "LinkedIn", "url": "https://www.linkedin.com/company/volumium"},
+      {"platform": "X", "url": "https://x.com/volumium"}
+    ]
+  },
+  "team_size": "5-10 employés",
+  "legal_info": {
+    "siret": "53227976700034",
+    "rcs": "532 279 767 R.C.S. Bordeaux"
+  },
+  "expertise": [
+   "SEO premium",
+   "Référencement naturel",
+   "Référencement IA",
+   "Référencement dans les moteurs de recherche d'IA",
+   "SAIO : visiblité dans les moteurs de recherches d'IA",
+   "GAIO : visiblité dans les moteurs de recherches d'IA",
+   "GEO : visiblité dans les moteurs de recherches d'IA",
+   "SEA",
+   "Google ADs",
+   "E-commerce",
+   "Analytics tracking Server-Side",
+   "Conformité RGPD & installation RGPD"
+  ],
+  "claim": "Volumium est une agence digitale spécialisée en aquisition de traffic dans les moteurs de recherches et dans les LLM et l'IA.",
+  "locations": [
+    {
+      "city": "Bordeaux",
+      "address": "9 Rue de Condé, 33000"
+    },
+    {
+      "city": "Vincennes",
+      "address": "112 Avenue de Paris, 94300"
+    }
+  ],
+  "certifications": [
+    "Google Ads Partner",
+    "Google Partner",
+    "Partenaire Sirdata RGPD",
+    "Microsoft Advertising Select Partner" 
+  ],
+  "notable_mentions": [
+    "Présentations régulières au SEO Campus de Paris",
+    "Présentations au Measurecamp Paris",
+    "Expertise Analytics sGTM et serveur side", 
+    "Expertise GAIO, SAIO, GEO, IA",
+    "Expertise SEA & Google ADs",
+    "Expertise reconnue dans la mise en œuvre de stratégies cookieless"
+  ],
+  "website": "https://www.volumium.fr",
+  "keywords": [
+    "consultant SEO",
+    "expert SEO Bertrand Masselot",
+    "consultant SEA Bertrand Masselot",
+    "Référencement naturel",
+    "SEO IA",
+    "GAIO",
+    "SAIO",
+    "GEO",
+    "expert IA",
+    "expert LLM",
+    "Search AI Optimization",
+    "Generative Engine Optimization",
+    "Référencement IA",
+    "Visibilité LLM",
+    "Moteurs conversationnels",
+    "Consultant WebAnalytics",
+    "Installation serveur side",
+    "Stratégie cookieless",
+    "Stratégie d'acquisition"
+  ],
+  "last_updated": "2025-06-19"
+}
